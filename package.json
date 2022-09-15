@@ -1,5 +1,5 @@
 {
-  "name": "ps-redux",
+  "name": "watchlist-management",
   "description": "Stock management software",
   "scripts": {
     "start": "webpack serve --config webpack.config.dev.js --port 3000"
